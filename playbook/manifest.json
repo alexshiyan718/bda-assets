@@ -1,0 +1,113 @@
+{
+  "base_url": "https://assets.businessdebtadjusters.net/playbook",
+  "chapters": [
+    {
+      "ch": "00",
+      "title": "Introduction",
+      "video": "https://assets.businessdebtadjusters.net/playbook/ch00.mp4",
+      "poster": "https://assets.businessdebtadjusters.net/playbook/ch00.jpg"
+    },
+    {
+      "ch": "01",
+      "title": "Identifying Your Debt Type",
+      "video": "https://assets.businessdebtadjusters.net/playbook/ch01.mp4",
+      "poster": "https://assets.businessdebtadjusters.net/playbook/ch01.jpg"
+    },
+    {
+      "ch": "02",
+      "title": "Funding Breakdown Matrix",
+      "video": "https://assets.businessdebtadjusters.net/playbook/ch02.mp4",
+      "poster": "https://assets.businessdebtadjusters.net/playbook/ch02.jpg"
+    },
+    {
+      "ch": "03",
+      "title": "Reviewing Agreements",
+      "video": "https://assets.businessdebtadjusters.net/playbook/ch03.mp4",
+      "poster": "https://assets.businessdebtadjusters.net/playbook/ch03.jpg"
+    },
+    {
+      "ch": "04",
+      "title": "Negotiation-Ready Files",
+      "video": "https://assets.businessdebtadjusters.net/playbook/ch04.mp4",
+      "poster": "https://assets.businessdebtadjusters.net/playbook/ch04.jpg"
+    },
+    {
+      "ch": "05",
+      "title": "UCC & Article 9",
+      "video": "https://assets.businessdebtadjusters.net/playbook/ch05.mp4",
+      "poster": "https://assets.businessdebtadjusters.net/playbook/ch05.jpg"
+    },
+    {
+      "ch": "06",
+      "title": "Factor Rates vs APR",
+      "video": "https://assets.businessdebtadjusters.net/playbook/ch06.mp4",
+      "poster": "https://assets.businessdebtadjusters.net/playbook/ch06.jpg"
+    },
+    {
+      "ch": "07",
+      "title": "Stabilizing Cash Flow",
+      "video": "https://assets.businessdebtadjusters.net/playbook/ch07.mp4",
+      "poster": "https://assets.businessdebtadjusters.net/playbook/ch07.jpg"
+    },
+    {
+      "ch": "08",
+      "title": "Underwriting Sustainability",
+      "video": "https://assets.businessdebtadjusters.net/playbook/ch08.mp4",
+      "poster": "https://assets.businessdebtadjusters.net/playbook/ch08.jpg"
+    },
+    {
+      "ch": "09",
+      "title": "Banking & ACH Strategy",
+      "video": "https://assets.businessdebtadjusters.net/playbook/ch09.mp4",
+      "poster": "https://assets.businessdebtadjusters.net/playbook/ch09.jpg"
+    },
+    {
+      "ch": "10",
+      "title": "Lender Psychology",
+      "video": "https://assets.businessdebtadjusters.net/playbook/ch10.mp4",
+      "poster": "https://assets.businessdebtadjusters.net/playbook/ch10.jpg"
+    },
+    {
+      "ch": "11",
+      "title": "Settlement Timing Windows",
+      "video": "https://assets.businessdebtadjusters.net/playbook/ch11.mp4",
+      "poster": "https://assets.businessdebtadjusters.net/playbook/ch11.jpg"
+    },
+    {
+      "ch": "12",
+      "title": "Personal Guarantees",
+      "video": "https://assets.businessdebtadjusters.net/playbook/ch12.mp4",
+      "poster": "https://assets.businessdebtadjusters.net/playbook/ch12.jpg"
+    },
+    {
+      "ch": "13",
+      "title": "Reserve Planning",
+      "video": "https://assets.businessdebtadjusters.net/playbook/ch13.mp4",
+      "poster": "https://assets.businessdebtadjusters.net/playbook/ch13.jpg"
+    },
+    {
+      "ch": "14",
+      "title": "Legal Escalation",
+      "video": "https://assets.businessdebtadjusters.net/playbook/ch14.mp4",
+      "poster": "https://assets.businessdebtadjusters.net/playbook/ch14.jpg"
+    },
+    {
+      "ch": "15",
+      "title": "Operational Protection",
+      "video": "https://assets.businessdebtadjusters.net/playbook/ch15.mp4",
+      "poster": "https://assets.businessdebtadjusters.net/playbook/ch15.jpg"
+    },
+    {
+      "ch": "16",
+      "title": "Negotiation Sequencing",
+      "video": "https://assets.businessdebtadjusters.net/playbook/ch16.mp4",
+      "poster": "https://assets.businessdebtadjusters.net/playbook/ch16.jpg"
+    },
+    {
+      "ch": "17",
+      "title": "Why DIY Becomes Difficult",
+      "video": "https://assets.businessdebtadjusters.net/playbook/ch17.mp4",
+      "poster": "https://assets.businessdebtadjusters.net/playbook/ch17.jpg"
+    }
+  ]
+}
